@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
 
-echo "release called"
+echo -e "---\ndefault_process_types:\n  web: sh boot.sh"
 
