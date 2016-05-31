@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+build_dir=$1
+cache_dir=$2
+
+echo "Build Dir:"
+echo $build_dir
+echo "Cache Dir:"
+echo $cache_dir
