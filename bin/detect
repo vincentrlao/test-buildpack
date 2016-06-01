@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
+# bin/detect <build-dir>
 
-echo "test"
+echo "Call detect"
+
 exit 0
 

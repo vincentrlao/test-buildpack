@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# bin/compile <build-dir> <cache-dir>
 
 set -e
+set -o pipefail
 
-build_dir=$1
-cache_dir=$2
-
-echo "Compiling..."
+# make
+echo "-----> Compiling with Make"
 clear
 
