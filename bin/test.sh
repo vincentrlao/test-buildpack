@@ -1,0 +1,4 @@
+
+
+echo "Test running script"
+
