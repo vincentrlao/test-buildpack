@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
 
-#echo "--- {}"
-echo -e $1
+echo "--- {}"
+#echo -e $1

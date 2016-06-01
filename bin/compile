@@ -10,3 +10,4 @@ export TERM=xterm-256color
 #touch README
 clear
 
+exit 0
